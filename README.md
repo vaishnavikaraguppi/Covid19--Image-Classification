@@ -9,14 +9,14 @@ The goal is to assist radiologists in identifying COVID-19 from lung X-rays, pro
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - `CovidImages.npy` – Numpy array of X-ray images
 - `CovidLabels.csv` – Corresponding labels for each image
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -27,7 +27,7 @@ The goal is to assist radiologists in identifying COVID-19 from lung X-rays, pro
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - Built and trained CNN models from scratch
 - Used data preprocessing and augmentation
@@ -39,7 +39,7 @@ The goal is to assist radiologists in identifying COVID-19 from lung X-rays, pro
 
 ---
 
-## 📷 Sample Results
+## Sample Results
 
 | True Label | Predicted Label |
 |------------|-----------------|
@@ -49,7 +49,7 @@ The goal is to assist radiologists in identifying COVID-19 from lung X-rays, pro
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
