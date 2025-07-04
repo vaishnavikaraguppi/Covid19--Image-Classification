@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Introduction to Computer Vision: COVID-19 Image Classification
+# # COVID-19 Image Classification
 
 # ## Problem Statement
 
